@@ -2,3 +2,5 @@ __pycache__
 *.sw*
 build
 *.so
+*.egg-info
+*.egg
